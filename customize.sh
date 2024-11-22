@@ -13,3 +13,4 @@ sed -i 's/$1$V4UetPzk$CYXluq4wUazHjmCDBCqXF.//g' openwrt/package/lean/default-se
 
 #3. Replace with JerryKuKu’s Argon
 rm openwrt/package/lean/luci-theme-argon -rf
+rm openwrt/package/lean/luci-app-argon-config -rf 
